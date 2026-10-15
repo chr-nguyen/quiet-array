@@ -1,0 +1,41 @@
+{
+  "after_hours": {
+    "seconds": 64.0,
+    "channels": 2,
+    "peak_dbfs": -6.38,
+    "rms_dbfs": -19.96,
+    "seam_step": 0.000868
+  },
+  "forest": {
+    "seconds": 16.0,
+    "channels": 2,
+    "peak_dbfs": -8.4,
+    "rms_dbfs": -23.15,
+    "seam_step": 0.010765
+  },
+  "compressor": {
+    "seconds": 8.0,
+    "channels": 1,
+    "peak_dbfs": -9.9,
+    "rms_dbfs": -16.34,
+    "seam_step": 0.001337
+  },
+  "sign_creak": {
+    "seconds": 2.8,
+    "channels": 1,
+    "peak_dbfs": -9.9,
+    "rms_dbfs": -19.29
+  },
+  "step_asphalt": {
+    "seconds": 0.26,
+    "channels": 1,
+    "peak_dbfs": -5.04,
+    "rms_dbfs": -22.41
+  },
+  "step_tile": {
+    "seconds": 0.26,
+    "channels": 1,
+    "peak_dbfs": -5.04,
+    "rms_dbfs": -20.12
+  }
+}

@@ -1,0 +1,12 @@
+# Local reference builds and investigation outputs
+/reference/local/*
+!/reference/local/.gitkeep
+
+# Development caches and exports
+.godot/
+node_modules/
+.DS_Store
+*.log
+/builds/
+/.tools/
+/artifacts/
