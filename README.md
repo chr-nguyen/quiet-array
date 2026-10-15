@@ -1,6 +1,6 @@
 # Last Light / Quiet Array
 
-A playable Godot prototype: a small gas station at night, inspired by the low-poly atmosphere of Voices of the Void and PS1-era games. Walk around the forecourt, approach the automatic sliding doors, and explore the shop.
+A playable PSX-style Godot prototype: a small gas station at night, inspired by the low-poly atmosphere of Voices of the Void and PS1-era games. Walk around the forecourt, approach the automatic sliding doors, and explore the shop.
 
 Original geometry, signs, synthesized audio, and a generated surface atlas. No extracted reference-game assets are required. The [1990s art-direction research](research/1990s-art-direction.md) explains the sources and how they informed the current scene.
 
